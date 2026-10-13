@@ -1,16 +1,17 @@
-## Hi there 👋
+# Ciao, sono Umberto Maraglino 👋
 
-<!--
-**umbertomaraglino/umbertomaraglino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Dottore Magistrale in **Ingegneria Informatica e dell'Automazione**.  
+💼 Attualmente lavoro come **Data Analyst & Full-Stack Developer** presso Poste Italiane, dove mi occupo di sviluppo backend, gestione dati e automazioni di processo basate su IA.  
+🧠 Fortemente appassionato di Intelligenza Artificiale e Deep Learning, con l'obiettivo di lavorare sempre di più in questo mondo.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 I Miei Progetti
+
+In questo profilo troverai una serie di piccoli progetti che ho realizzato con l'obiettivo di imparare, sperimentare nuove tecnologie e scoprire cose nuove (tra cui un'app per **iOS**, una per **Android** e un **sito web** che ho pubblicato su GitHub Pages).
+
+---
+
+### 🛠️ Tech Stack & Competenze
+- **Linguaggi:** Python, Java, C#, C++, TypeScript
+- **Database & DevOps:** SQL, MongoDB, Docker, Openshift, Jenkins
